@@ -32,9 +32,6 @@ Rakshita AI incorporates several modules to achieve its objectives:
 ## Contributors
 
 - Akshat Shukla (Founder)
-- [Your Name](https://github.com/your-username)
-- [Contributor 2 Name](https://github.com/contributor2-username)
-- [Contributor 3 Name](https://github.com/contributor3-username)
 
 ## License
 

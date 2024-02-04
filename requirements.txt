@@ -1,0 +1,11 @@
+# Django requirements
+Django>=3.2.5
+djangorestframework>=3.12.4
+
+# OpenCV and Tesseract requirements
+opencv-python>=4.5.3.56
+pytesseract>=0.3.8
+
+# Arduino requirements (for ESP8266/ESP32)
+arduinojson>=6.17.2
+esp8266wifi>=1.0.0
